@@ -66,6 +66,7 @@ pytz==2020.1              # via pandas
 pyzmq==19.0.2             # via jupyter-client, notebook, qtconsole
 qtconsole==4.7.7          # via jupyter
 qtpy==1.9.0               # via qtconsole
+rtree==0.9.4              # via -r requirements.in
 send2trash==1.5.0         # via notebook
 shapely==1.7.1            # via geopandas
 six==1.15.0               # via argon2-cffi, bleach, cycler, fiona, jsonschema, munch, packaging, python-dateutil
