@@ -19,6 +19,7 @@ cligj==0.5.0              # via fiona
 cycler==0.10.0            # via matplotlib
 decorator==4.4.2          # via ipython
 defusedxml==0.6.0         # via nbconvert
+descartes==1.1.0          # via -r requirements.in
 entrypoints==0.3          # via altair, nbconvert
 fiona==1.8.17             # via geopandas
 geopandas==0.8.1          # via -r requirements.in
@@ -36,7 +37,7 @@ jupyter==1.0.0            # via -r requirements.in
 jupyterlab-pygments==0.1.1  # via nbconvert
 kiwisolver==1.2.0         # via matplotlib
 markupsafe==1.1.1         # via jinja2
-matplotlib==3.3.2         # via -r requirements.in
+matplotlib==3.3.2         # via -r requirements.in, descartes
 mistune==0.8.4            # via nbconvert
 munch==2.5.0              # via fiona
 nbclient==0.5.0           # via nbconvert
